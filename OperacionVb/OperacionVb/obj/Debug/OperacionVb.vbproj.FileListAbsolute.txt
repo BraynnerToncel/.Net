@@ -1,0 +1,10 @@
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\bin\Debug\OperacionVb.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\bin\Debug\OperacionVb.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\bin\Debug\OperacionVb.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.Resources.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\OperacionVb\OperacionVb\obj\Debug\OperacionVb.pdb

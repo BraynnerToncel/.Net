@@ -1,0 +1,12 @@
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.Resources.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.pdb

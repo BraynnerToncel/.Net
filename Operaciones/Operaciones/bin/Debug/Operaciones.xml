@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Operaciones
+</name>
+</assembly>
+<members>
+<member name="T:Operaciones.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Operaciones.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Operaciones.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Operaciones.Matematica.Hipotenusa(System.Double,System.Double)">
+ <summary>
+ Obtiene la hipotensa de un triangulo rectangulo
+ </summary>
+ <param name="ca"> Cateto a </param>
+ <param name="cb"> Cateto b </param>
+ <returns> Hipotenusa del triangulo rectangulo </returns>
+</member>
+<member name="M:Operaciones.Matematica.EsPrimo(System.Int32)">
+ <summary>
+ Retorna verdad en caso de recibir un numero primo y falso en caso de no ser
+ </summary>
+ <param name="num"> numero a evaluar </param>
+ <returns>True si es primo, false si no es primo</returns>
+</member>
+<member name="M:Operaciones.Matematica.BinarioDecimal(System.String)">
+ <summary>
+ Convierte un numero binario en decimal
+ </summary>
+ <param name="binario"> Cadena numerica</param>
+ <returns></returns>
+</member>
+<member name="M:Operaciones.Matematica.DecimalBinario(System.Int32)">
+ <summary>
+ Convierte un numero decimal a binario
+ </summary>
+ <param name="dec"></param>
+ <returns>Binario en forma de cadena</returns>
+</member>
+<member name="M:Operaciones.Matematica.Factorial(System.Int32)">
+ <summary>
+ Calcula el factorial de un numero
+ </summary>
+ <param name="numero">Numero a evaluar</param>
+ <returns> Retorna factorial del numero evaluado</returns>
+</member>
+</members>
+</doc>
